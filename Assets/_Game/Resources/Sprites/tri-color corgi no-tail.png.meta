@@ -1,0 +1,1869 @@
+fileFormatVersion: 2
+guid: f7c8bdccc23940b4e826463aeea60115
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6218328034110462817
+    second: tricolorcorgi-asset(notail)_0
+  - first:
+      213: -1348590384805733010
+    second: tricolorcorgi-asset(notail)_1
+  - first:
+      213: 4846305616959895831
+    second: tricolorcorgi-asset(notail)_2
+  - first:
+      213: 1717991719321129060
+    second: tricolorcorgi-asset(notail)_3
+  - first:
+      213: -4320956694855864040
+    second: tricolorcorgi-asset(notail)_4
+  - first:
+      213: -4383020629963907134
+    second: tricolorcorgi-asset(notail)_5
+  - first:
+      213: -5690663742533907019
+    second: tricolorcorgi-asset(notail)_6
+  - first:
+      213: 1556782555038463884
+    second: tricolorcorgi-asset(notail)_7
+  - first:
+      213: 1472151208525162549
+    second: tricolorcorgi-asset(notail)_8
+  - first:
+      213: 1802448001478076649
+    second: tricolorcorgi-asset(notail)_9
+  - first:
+      213: 4678092108241122136
+    second: tricolorcorgi-asset(notail)_10
+  - first:
+      213: -1801173129088092285
+    second: tricolorcorgi-asset(notail)_11
+  - first:
+      213: -3638690939684383452
+    second: tricolorcorgi-asset(notail)_12
+  - first:
+      213: -6262447946741886794
+    second: tricolorcorgi-asset(notail)_13
+  - first:
+      213: 888099574474004256
+    second: tricolorcorgi-asset(notail)_14
+  - first:
+      213: 3493663899711572444
+    second: tricolorcorgi-asset(notail)_15
+  - first:
+      213: 6022357557920818363
+    second: tricolorcorgi-asset(notail)_16
+  - first:
+      213: -9017842782418431870
+    second: tricolorcorgi-asset(notail)_17
+  - first:
+      213: 2280054644745992483
+    second: tricolorcorgi-asset(notail)_18
+  - first:
+      213: 7280712075883859240
+    second: tricolorcorgi-asset(notail)_19
+  - first:
+      213: -2473384963666694207
+    second: tricolorcorgi-asset(notail)_20
+  - first:
+      213: -7536928077012686833
+    second: tricolorcorgi-asset(notail)_21
+  - first:
+      213: -5032875332256396098
+    second: tricolorcorgi-asset(notail)_22
+  - first:
+      213: -1341324557150689773
+    second: tricolorcorgi-asset(notail)_23
+  - first:
+      213: -4318596747185949021
+    second: tricolorcorgi-asset(notail)_24
+  - first:
+      213: -9218716900576657754
+    second: tricolorcorgi-asset(notail)_25
+  - first:
+      213: -703962399013628015
+    second: tricolorcorgi-asset(notail)_26
+  - first:
+      213: 8093334220368088970
+    second: tricolorcorgi-asset(notail)_27
+  - first:
+      213: -6359670261173590966
+    second: tricolorcorgi-asset(notail)_28
+  - first:
+      213: -891113453363780415
+    second: tricolorcorgi-asset(notail)_29
+  - first:
+      213: -4657087004310631987
+    second: tricolorcorgi-asset(notail)_30
+  - first:
+      213: 2930923861967510989
+    second: tricolorcorgi-asset(notail)_31
+  - first:
+      213: -8404852441909086790
+    second: tricolorcorgi-asset(notail)_32
+  - first:
+      213: -5841203467892881177
+    second: tricolorcorgi-asset(notail)_33
+  - first:
+      213: -2653239188272333271
+    second: tricolorcorgi-asset(notail)_34
+  - first:
+      213: -8222738947752574217
+    second: tricolorcorgi-asset(notail)_35
+  - first:
+      213: 8688079115139381977
+    second: tricolorcorgi-asset(notail)_36
+  - first:
+      213: 6779146445449462095
+    second: tricolorcorgi-asset(notail)_37
+  - first:
+      213: 6362677135592856346
+    second: tricolorcorgi-asset(notail)_38
+  - first:
+      213: 3996599690869968269
+    second: tricolorcorgi-asset(notail)_39
+  - first:
+      213: -7899283780084621247
+    second: tricolorcorgi-asset(notail)_40
+  - first:
+      213: -7945978107967879891
+    second: tricolorcorgi-asset(notail)_41
+  - first:
+      213: -5715708748537241717
+    second: tricolorcorgi-asset(notail)_42
+  - first:
+      213: 3214926758646253569
+    second: tricolorcorgi-asset(notail)_43
+  - first:
+      213: -9078749498555474386
+    second: tricolorcorgi-asset(notail)_44
+  - first:
+      213: 6085349529670425992
+    second: tricolorcorgi-asset(notail)_45
+  - first:
+      213: 1306765689034098437
+    second: tricolorcorgi-asset(notail)_46
+  - first:
+      213: -9207267030047477799
+    second: tricolorcorgi-asset(notail)_47
+  - first:
+      213: -3737342125107042911
+    second: tricolorcorgi-asset(notail)_48
+  - first:
+      213: 6363496548994026709
+    second: tricolorcorgi-asset(notail)_49
+  - first:
+      213: -2510098475788203286
+    second: tricolorcorgi-asset(notail)_50
+  - first:
+      213: 7986171515513691378
+    second: tricolorcorgi-asset(notail)_51
+  - first:
+      213: 1520393079268395625
+    second: tricolorcorgi-asset(notail)_52
+  - first:
+      213: 4493423642296369792
+    second: tricolorcorgi-asset(notail)_53
+  - first:
+      213: 2633706429364989843
+    second: tricolorcorgi-asset(notail)_54
+  - first:
+      213: 4534074001720258672
+    second: tricolorcorgi-asset(notail)_55
+  - first:
+      213: -3475729988847427798
+    second: tricolorcorgi-asset(notail)_56
+  - first:
+      213: 931118990104250644
+    second: tricolorcorgi-asset(notail)_57
+  - first:
+      213: 2212597871309697538
+    second: tricolorcorgi-asset(notail)_58
+  - first:
+      213: 8312766850677451725
+    second: tricolorcorgi-asset(notail)_59
+  - first:
+      213: 508320460549352836
+    second: tricolorcorgi-asset(notail)_60
+  - first:
+      213: 851542306776131322
+    second: tricolorcorgi-asset(notail)_61
+  - first:
+      213: 4020912093925061442
+    second: tricolorcorgi-asset(notail)_62
+  - first:
+      213: -8034870320784430017
+    second: tricolorcorgi-asset(notail)_63
+  - first:
+      213: 5064005931568342538
+    second: tricolorcorgi-asset(notail)_64
+  - first:
+      213: 742797140459769116
+    second: tricolorcorgi-asset(notail)_65
+  - first:
+      213: -4797567217285476619
+    second: tricolorcorgi-asset(notail)_66
+  - first:
+      213: 7157930707696982795
+    second: tricolorcorgi-asset(notail)_67
+  - first:
+      213: 2733073747756762852
+    second: tricolorcorgi-asset(notail)_68
+  - first:
+      213: 6967213489625289602
+    second: tricolorcorgi-asset(notail)_69
+  - first:
+      213: -3473293282777971172
+    second: tricolorcorgi-asset(notail)_70
+  - first:
+      213: 5473419696865995742
+    second: tricolorcorgi-asset(notail)_71
+  - first:
+      213: 8211832977833176955
+    second: tricolorcorgi-asset(notail)_72
+  - first:
+      213: 3890861887720333525
+    second: tricolorcorgi-asset(notail)_73
+  - first:
+      213: -987949729560908915
+    second: tricolorcorgi-asset(notail)_74
+  - first:
+      213: 154448391748220664
+    second: tricolorcorgi-asset(notail)_75
+  - first:
+      213: -778075125570199180
+    second: tricolorcorgi-asset(notail)_76
+  - first:
+      213: 4317799265606893449
+    second: tricolorcorgi-asset(notail)_77
+  - first:
+      213: 911023756234647750
+    second: tricolorcorgi-asset(notail)_78
+  - first:
+      213: -6320783222326392778
+    second: tricolorcorgi-asset(notail)_79
+  - first:
+      213: 6329868002019716267
+    second: tricolorcorgi-asset(notail)_80
+  - first:
+      213: -837432854588702367
+    second: tricolorcorgi-asset(notail)_81
+  - first:
+      213: 4413685754594722746
+    second: tricolorcorgi-asset(notail)_82
+  - first:
+      213: -7772018542212744157
+    second: tricolorcorgi-asset(notail)_83
+  - first:
+      213: -7271721457712144308
+    second: tricolorcorgi-asset(notail)_84
+  - first:
+      213: -4193157548101655254
+    second: tricolorcorgi-asset(notail)_85
+  - first:
+      213: -824546980312010598
+    second: tricolorcorgi-asset(notail)_86
+  - first:
+      213: 6266385097641065135
+    second: tricolorcorgi-asset(notail)_87
+  - first:
+      213: 5128383086539741991
+    second: tricolorcorgi-asset(notail)_88
+  - first:
+      213: -3331480680660908901
+    second: tricolorcorgi-asset(notail)_89
+  - first:
+      213: 2410544359944222509
+    second: tricolorcorgi-asset(notail)_90
+  - first:
+      213: -2869550545147884554
+    second: tricolorcorgi-asset(notail)_91
+  - first:
+      213: 7826522806598163166
+    second: tricolorcorgi-asset(notail)_92
+  - first:
+      213: 2877293757682285518
+    second: tricolorcorgi-asset(notail)_93
+  - first:
+      213: 3491454727496961857
+    second: tricolorcorgi-asset(notail)_94
+  - first:
+      213: 149904674994477423
+    second: tricolorcorgi-asset(notail)_95
+  - first:
+      213: 2015250468338127016
+    second: tricolorcorgi-asset(notail)_96
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Linux64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 463
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811354987c0e804c0800000000000000
+      internalID: -4320956694855864040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 463
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfdac395f16c23c0800000000000000
+      internalID: -4383020629963907134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 464
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd42120a73b601b0800000000000000
+      internalID: -5690663742533907019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 467
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87b7915c7dca9510800000000000000
+      internalID: 1556782555038463884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_8
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 470
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538edcf69b12e6410800000000000000
+      internalID: 1472151208525162549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 470
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8a63658e4930910800000000000000
+      internalID: 1802448001478076649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 470
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8533542acfbebe040800000000000000
+      internalID: 4678092108241122136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_11
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 470
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387b9b50592f007e0800000000000000
+      internalID: -1801173129088092285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_12
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 464
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4251ea47ed5c08dc0800000000000000
+      internalID: -3638690939684383452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_13
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 463
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b05316b5c05719a0800000000000000
+      internalID: -6262447946741886794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_14
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 463
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027d2bd8bd9235c00800000000000000
+      internalID: 888099574474004256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_20
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 399
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfaad7ea75ccadd0800000000000000
+      internalID: -2473384963666694207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_21
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 399
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08adf7a8d3776790800000000000000
+      internalID: -7536928077012686833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_22
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 399
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc0806fc82a72ab0800000000000000
+      internalID: -5032875332256396098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_23
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 399
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31666820c68a26de0800000000000000
+      internalID: -1341324557150689773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_24
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 399
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6f2dba3234114c0800000000000000
+      internalID: -4318596747185949021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 335
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc90afb3b04be5fb0800000000000000
+      internalID: -4657087004310631987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_31
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 335
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd1a4849bbbca820800000000000000
+      internalID: 2930923861967510989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_32
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 335
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab53f622c37fb5b80800000000000000
+      internalID: -8404852441909086790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_33
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 335
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8077bd460efeea0800000000000000
+      internalID: -5841203467892881177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_34
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 335
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92eb1e6040dcd2bd0800000000000000
+      internalID: -2653239188272333271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_38
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 271
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b1387d425cc4850800000000000000
+      internalID: 6362677135592856346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_39
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 271
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d8db37e36c67730800000000000000
+      internalID: 3996599690869968269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_40
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 271
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1402d04114b106290800000000000000
+      internalID: -7899283780084621247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_41
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 271
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d254b89a2073ab190800000000000000
+      internalID: -7945978107967879891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_42
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 271
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f58d32d29bda0b0800000000000000
+      internalID: -5715708748537241717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_43
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 271
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10802048ad6bd9c20800000000000000
+      internalID: 3214926758646253569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_44
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 271
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e58ddae6dc10280800000000000000
+      internalID: -9078749498555474386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_45
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 271
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d981ad721837450800000000000000
+      internalID: 6085349529670425992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_46
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 271
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507cb8b7870922210800000000000000
+      internalID: 1306765689034098437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_51
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 207
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc59894ea494de60800000000000000
+      internalID: 7986171515513691378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_52
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 208
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a41c04375891510800000000000000
+      internalID: 1520393079268395625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_53
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 207
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082ca68def8db5e30800000000000000
+      internalID: 4493423642296369792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_54
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 207
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f66f42b0ecc8420800000000000000
+      internalID: 2633706429364989843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_55
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 207
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070bed138444cee30800000000000000
+      internalID: 4534074001720258672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_59
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 145
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcba5436861ec5370800000000000000
+      internalID: 8312766850677451725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_60
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 143
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d6b1304caed0700800000000000000
+      internalID: 508320460549352836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_61
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 143
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6ab92673941db00800000000000000
+      internalID: 851542306776131322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_62
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 143
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243b977ee362dc730800000000000000
+      internalID: 4020912093925061442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_63
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 144
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ca05983086e7090800000000000000
+      internalID: -8034870320784430017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_64
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 143
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a062a938096f64640800000000000000
+      internalID: 5064005931568342538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_65
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 143
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dc7415012fe4a00800000000000000
+      internalID: 742797140459769116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_66
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 143
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fec3a3d80e9b6db0800000000000000
+      internalID: -4797567217285476619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_72
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 79
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fa59ec59a46f170800000000000000
+      internalID: 8211832977833176955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_73
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 79
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d02dafa54e1ff530800000000000000
+      internalID: 3890861887720333525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_74
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 79
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b249194f81a42f0800000000000000
+      internalID: -987949729560908915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_75
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 79
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f678467ef5b42200800000000000000
+      internalID: 154448391748220664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_76
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 79
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47122d3bbc8b335f0800000000000000
+      internalID: -778075125570199180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_77
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 79
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ff0fd2e87ebeb30800000000000000
+      internalID: 4317799265606893449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_78
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 79
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8ee4c874b94ac00800000000000000
+      internalID: 911023756234647750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_79
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 79
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6388cf2f5211848a0800000000000000
+      internalID: -6320783222326392778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_89
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 15
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94412dc8f334c1d0800000000000000
+      internalID: -3331480680660908901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_90
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 15
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27fbc1e259f37120800000000000000
+      internalID: 2410544359944222509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_91
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 15
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb8e639bfe4d28d0800000000000000
+      internalID: -2869550545147884554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_92
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 15
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edad6c1a6056d9c60800000000000000
+      internalID: 7826522806598163166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_93
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 15
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbf9159d633ee720800000000000000
+      internalID: 2877293757682285518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_94
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 15
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f80dd7393247030800000000000000
+      internalID: 3491454727496961857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_95
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 15
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f695737f181941200800000000000000
+      internalID: 149904674994477423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricolorcorgi-asset(notail)_96
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 15
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0dbbaaf9b97fb10800000000000000
+      internalID: 2015250468338127016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6cfd045af6e3baa4c97e5a0a7c3876bd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tri-color corgi no-tail_0: 769266729
+      tricolorcorgi-asset(notail)_0: -6218328034110462817
+      tricolorcorgi-asset(notail)_1: -1348590384805733010
+      tricolorcorgi-asset(notail)_10: 4678092108241122136
+      tricolorcorgi-asset(notail)_11: -1801173129088092285
+      tricolorcorgi-asset(notail)_12: -3638690939684383452
+      tricolorcorgi-asset(notail)_13: -6262447946741886794
+      tricolorcorgi-asset(notail)_14: 888099574474004256
+      tricolorcorgi-asset(notail)_15: 3493663899711572444
+      tricolorcorgi-asset(notail)_16: 6022357557920818363
+      tricolorcorgi-asset(notail)_17: -9017842782418431870
+      tricolorcorgi-asset(notail)_18: 2280054644745992483
+      tricolorcorgi-asset(notail)_19: 7280712075883859240
+      tricolorcorgi-asset(notail)_2: 4846305616959895831
+      tricolorcorgi-asset(notail)_20: -2473384963666694207
+      tricolorcorgi-asset(notail)_21: -7536928077012686833
+      tricolorcorgi-asset(notail)_22: -5032875332256396098
+      tricolorcorgi-asset(notail)_23: -1341324557150689773
+      tricolorcorgi-asset(notail)_24: -4318596747185949021
+      tricolorcorgi-asset(notail)_25: -9218716900576657754
+      tricolorcorgi-asset(notail)_26: -703962399013628015
+      tricolorcorgi-asset(notail)_27: 8093334220368088970
+      tricolorcorgi-asset(notail)_28: -6359670261173590966
+      tricolorcorgi-asset(notail)_29: -891113453363780415
+      tricolorcorgi-asset(notail)_3: 1717991719321129060
+      tricolorcorgi-asset(notail)_30: -4657087004310631987
+      tricolorcorgi-asset(notail)_31: 2930923861967510989
+      tricolorcorgi-asset(notail)_32: -8404852441909086790
+      tricolorcorgi-asset(notail)_33: -5841203467892881177
+      tricolorcorgi-asset(notail)_34: -2653239188272333271
+      tricolorcorgi-asset(notail)_35: -8222738947752574217
+      tricolorcorgi-asset(notail)_36: 8688079115139381977
+      tricolorcorgi-asset(notail)_37: 6779146445449462095
+      tricolorcorgi-asset(notail)_38: 6362677135592856346
+      tricolorcorgi-asset(notail)_39: 3996599690869968269
+      tricolorcorgi-asset(notail)_4: -4320956694855864040
+      tricolorcorgi-asset(notail)_40: -7899283780084621247
+      tricolorcorgi-asset(notail)_41: -7945978107967879891
+      tricolorcorgi-asset(notail)_42: -5715708748537241717
+      tricolorcorgi-asset(notail)_43: 3214926758646253569
+      tricolorcorgi-asset(notail)_44: -9078749498555474386
+      tricolorcorgi-asset(notail)_45: 6085349529670425992
+      tricolorcorgi-asset(notail)_46: 1306765689034098437
+      tricolorcorgi-asset(notail)_47: -9207267030047477799
+      tricolorcorgi-asset(notail)_48: -3737342125107042911
+      tricolorcorgi-asset(notail)_49: 6363496548994026709
+      tricolorcorgi-asset(notail)_5: -4383020629963907134
+      tricolorcorgi-asset(notail)_50: -2510098475788203286
+      tricolorcorgi-asset(notail)_51: 7986171515513691378
+      tricolorcorgi-asset(notail)_52: 1520393079268395625
+      tricolorcorgi-asset(notail)_53: 4493423642296369792
+      tricolorcorgi-asset(notail)_54: 2633706429364989843
+      tricolorcorgi-asset(notail)_55: 4534074001720258672
+      tricolorcorgi-asset(notail)_56: -3475729988847427798
+      tricolorcorgi-asset(notail)_57: 931118990104250644
+      tricolorcorgi-asset(notail)_58: 2212597871309697538
+      tricolorcorgi-asset(notail)_59: 8312766850677451725
+      tricolorcorgi-asset(notail)_6: -5690663742533907019
+      tricolorcorgi-asset(notail)_60: 508320460549352836
+      tricolorcorgi-asset(notail)_61: 851542306776131322
+      tricolorcorgi-asset(notail)_62: 4020912093925061442
+      tricolorcorgi-asset(notail)_63: -8034870320784430017
+      tricolorcorgi-asset(notail)_64: 5064005931568342538
+      tricolorcorgi-asset(notail)_65: 742797140459769116
+      tricolorcorgi-asset(notail)_66: -4797567217285476619
+      tricolorcorgi-asset(notail)_67: 7157930707696982795
+      tricolorcorgi-asset(notail)_68: 2733073747756762852
+      tricolorcorgi-asset(notail)_69: 6967213489625289602
+      tricolorcorgi-asset(notail)_7: 1556782555038463884
+      tricolorcorgi-asset(notail)_70: -3473293282777971172
+      tricolorcorgi-asset(notail)_71: 5473419696865995742
+      tricolorcorgi-asset(notail)_72: 8211832977833176955
+      tricolorcorgi-asset(notail)_73: 3890861887720333525
+      tricolorcorgi-asset(notail)_74: -987949729560908915
+      tricolorcorgi-asset(notail)_75: 154448391748220664
+      tricolorcorgi-asset(notail)_76: -778075125570199180
+      tricolorcorgi-asset(notail)_77: 4317799265606893449
+      tricolorcorgi-asset(notail)_78: 911023756234647750
+      tricolorcorgi-asset(notail)_79: -6320783222326392778
+      tricolorcorgi-asset(notail)_8: 1472151208525162549
+      tricolorcorgi-asset(notail)_80: 6329868002019716267
+      tricolorcorgi-asset(notail)_81: -837432854588702367
+      tricolorcorgi-asset(notail)_82: 4413685754594722746
+      tricolorcorgi-asset(notail)_83: -7772018542212744157
+      tricolorcorgi-asset(notail)_84: -7271721457712144308
+      tricolorcorgi-asset(notail)_85: -4193157548101655254
+      tricolorcorgi-asset(notail)_86: -824546980312010598
+      tricolorcorgi-asset(notail)_87: 6266385097641065135
+      tricolorcorgi-asset(notail)_88: 5128383086539741991
+      tricolorcorgi-asset(notail)_89: -3331480680660908901
+      tricolorcorgi-asset(notail)_9: 1802448001478076649
+      tricolorcorgi-asset(notail)_90: 2410544359944222509
+      tricolorcorgi-asset(notail)_91: -2869550545147884554
+      tricolorcorgi-asset(notail)_92: 7826522806598163166
+      tricolorcorgi-asset(notail)_93: 2877293757682285518
+      tricolorcorgi-asset(notail)_94: 3491454727496961857
+      tricolorcorgi-asset(notail)_95: 149904674994477423
+      tricolorcorgi-asset(notail)_96: 2015250468338127016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
